@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm musca</h1>
 <h3 align="center">A full-stack developer & photographer</h3>
 
-- 🌱 I’m currently learning **everything**
-
 - 👨‍💻 All of my projects are available at [PORTFOLIO_LINK](PORTFOLIO_LINK)
 
 - 📄 Know about my experiences [RESUME_LINK](RESUME_LINK)
