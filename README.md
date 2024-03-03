@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm musca</h1>
 <h3 align="center">A full-stack developer & photographer</h3>
 
-- All of my projects are available at [https://muscaa.github.io/portfolio/]([PORTFOLIO_LINK](https://muscaa.github.io/portfolio/))
+- All of my projects are available on [github.io](https://muscaa.github.io/portfolio/)
 
 - Know about my experiences [RESUME_LINK](RESUME_LINK)
 
