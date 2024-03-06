@@ -3,7 +3,7 @@
 
 - All of my projects are available [here](https://muscaa.github.io/portfolio/)
 
-- Know about my experiences [RESUME_LINK](RESUME_LINK)
+- Know about my experiences [here](https://muscaa.github.io/portfolio/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
