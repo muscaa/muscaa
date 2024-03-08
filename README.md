@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm musca</h1>
 <h3 align="center">A full-stack developer & photographer</h3>
 
-- All of my projects are available [here](https://muscaa.github.io/portfolio/)
+- All of my projects are available [here](https://muscaa.github.io/portfolio/) (work in progress)
 
-- Know about my experiences [here](https://muscaa.github.io/portfolio/resume)
+- Know about my experiences [here](https://muscaa.github.io/portfolio/resume) (work in progress)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mihail-musca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mihail-musca" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mihail-musca-1247b92b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mihail-musca" height="30" width="40" /></a>
 <a href="https://instagram.com/musca.mihail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="musca.mihail" height="30" width="40" /></a>
 </p>
 
