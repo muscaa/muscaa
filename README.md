@@ -57,14 +57,20 @@ All of my projects are available [here](https://muscaa.github.io/portfolio/).
 <table border="0">
 <tr>
 <td>
-<img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=muscaa&theme=dark&hide_border=true" alt="muscaa" />
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=muscaa&show_icons=true&theme=dark&hide_border=true&locale=en" alt="muscaa" />
+<p>
+<img align="left" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=muscaa&theme=dark&hide_border=true" alt="muscaa" />
+</p>
+<p>
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=muscaa&show_icons=true&theme=dark&hide_border=true&locale=en" alt="muscaa" />
+</p>
 </td>
-</tr>
-</table>
+<td>
 <p>
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=muscaa&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="muscaa" />
 </p>
+</td>
+</tr>
+</table>
 
 <p>
 <img align="left" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=muscaa&theme=dark&hide_border=true" alt="muscaa" />
