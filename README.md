@@ -1,4 +1,5 @@
 
+
 ## About Me
 Hi 👋! I'm Mihail, a Computer Science student at West University of Timișoara, România.
 
@@ -58,15 +59,15 @@ All of my projects are available [here](https://muscaa.github.io/portfolio/).
   <tr>
     <td>
       <p>
-        <img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=muscaa&theme=dark&hide_border=true" alt="muscaa" />
+        <img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=muscaa&theme=transparent&hide_border=true" alt="muscaa" />
       </p>
       <p>
-        <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=muscaa&show_icons=true&theme=dark&hide_border=true&locale=en" alt="muscaa" />
+        <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=muscaa&show_icons=true&theme=transparent&hide_border=true&locale=en" alt="muscaa" />
       </p>
     </td>
     <td>
       <p>
-        <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=muscaa&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="muscaa" />
+        <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=muscaa&show_icons=true&theme=transparent&hide_border=true&locale=en&layout=compact" alt="muscaa" />
       </p>
     </td>
   </tr>
