@@ -54,14 +54,14 @@ All of my projects are available [here](https://muscaa.github.io/portfolio/).
 ![nVIDIA](https://img.shields.io/badge/GTX_1050-000?style=for-the-badge&color=%23323330&logo=nVIDIA)
 ![RAM](https://img.shields.io/badge/RAM_16_gb-000?style=for-the-badge&color=%23323330)
 
-<table border="0">
+<table>
 <tr>
 <td>
-<img align="left" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=muscaa&theme=dark&hide_border=true" alt="muscaa" />
-<img align="left" width="100%" src="https://github-readme-stats.vercel.app/api?username=muscaa&show_icons=true&theme=dark&hide_border=true&locale=en" alt="muscaa" />
+<img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=muscaa&theme=dark&hide_border=true" alt="muscaa" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=muscaa&show_icons=true&theme=dark&hide_border=true&locale=en" alt="muscaa" />
 </td>
 <td>
-<img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=muscaa&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="muscaa" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=muscaa&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="muscaa" />
 </td>
 </tr>
 </table>
