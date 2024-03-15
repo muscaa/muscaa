@@ -1,6 +1,7 @@
 
 ## About Me
 Hi 👋! I'm Mihail, a Computer Science student at West University of Timișoara, România.
+
 All of my projects are available [here](https://muscaa.github.io/portfolio/).
 
 ### Languages
@@ -53,8 +54,7 @@ All of my projects are available [here](https://muscaa.github.io/portfolio/).
 ![nVIDIA](https://img.shields.io/badge/GTX_1050-000?style=for-the-badge&color=%23323330&logo=nVIDIA)
 ![RAM](https://img.shields.io/badge/RAM_16_gb-000?style=for-the-badge&color=%23323330)
 
+<p><img align="left" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=muscaa&theme=dark&hide_border=true" alt="muscaa" /></p>
 <p><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=muscaa&show_icons=true&theme=dark&hide_border=true&locale=en" alt="muscaa" /></p>
 
-<p><img align="left" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=muscaa&theme=dark&hide_border=true" alt="muscaa" /></p>
-
-<p><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=muscaa&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="muscaa" /></p>
+<p><img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=muscaa&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="muscaa" /></p>
