@@ -1,21 +1,60 @@
-<h1 align="center">Hi 👋, I'm musca</h1>
-<h3 align="center">A full-stack developer & photographer</h3>
 
-- All of my projects are available [here](https://muscaa.github.io/portfolio/) (work in progress)
+## About Me
+Hi 👋! I'm Mihail, a Computer Science student at West University of Timișoara, România.
+All of my projects are available [here](https://muscaa.github.io/portfolio/).
 
-- Know about my experiences [here](https://muscaa.github.io/portfolio/resume) (work in progress)
+### Languages
+![C](https://img.shields.io/badge/c-%?style=for-the-badge&color=%23323330&logo=c&logoColor=blue)
+![C++](https://img.shields.io/badge/c++-%?style=for-the-badge&color=%23323330&logo=c%2B%2B&logoColor=blue)
+![C#](https://img.shields.io/badge/c%23-%?style=for-the-badge&color=%23323330&logo=csharp&logoColor=734F96)
+![Java](https://img.shields.io/badge/java-%?style=for-the-badge&color=%23323330&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%?style=for-the-badge&color=%23323330&logo=dart&logoColor=0db7ed)
+![HTML5](https://img.shields.io/badge/html5-%?style=for-the-badge&color=%23323330&logo=html5)
+![CSS3](https://img.shields.io/badge/css3-%?style=for-the-badge&color=%23323330&logo=css3&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/javascript-%?style=for-the-badge&color=%23323330&logo=javascript)
+![TypeScript](https://img.shields.io/badge/typescript-%?style=for-the-badge&color=%23323330&logo=typescript)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mihail-musca-1247b92b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mihail-musca" height="30" width="40" /></a>
-<a href="https://instagram.com/musca.mihail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="musca.mihail" height="30" width="40" /></a>
-</p>
+### Frameworks
+![Arduino](https://img.shields.io/badge/Arduino-%?style=for-the-badge&color=%23323330&logo=Arduino&logoColor=469CB1)
+![.Net](https://img.shields.io/badge/.NET-%?style=for-the-badge&color=%23323330&logo=.net&logoColor=%23734F96)
+![Flutter](https://img.shields.io/badge/Flutter-%?style=for-the-badge&color=%23323330&logo=Flutter&logoColor=0db7ed)
+![Next JS](https://img.shields.io/badge/Next-%?style=for-the-badge&color=%23323330&logo=next.js)
+![React](https://img.shields.io/badge/react-%?style=for-the-badge&color=%23323330&logo=react)
+![Electron.js](https://img.shields.io/badge/Electron-%?style=for-the-badge&color=%23323330&logo=Electron)
+![Spring](https://img.shields.io/badge/spring-%?style=for-the-badge&color=%23323330&logo=spring)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### Databases
+![MySQL](https://img.shields.io/badge/mysql-%?style=for-the-badge&color=%23323330&logo=mysql)
+![SQLite](https://img.shields.io/badge/sqlite-%?style=for-the-badge&color=%23323330&logo=sqlite&logoColor=0db7ed)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muscaa&show_icons=true&theme=dark&locale=en&layout=compact" alt="muscaa" /></p>
+### IDEs
+![Eclipse](https://img.shields.io/badge/Eclipse-%?style=for-the-badge&color=%23323330&logo=Eclipse&logoColor=5849BE)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%?style=for-the-badge&color=%23323330&logo=intellij-idea&logoColor=red)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-%?style=for-the-badge&color=%23323330&logo=visual-studio-code&logoColor=blue)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-%?style=for-the-badge&color=%23323330&logo=visual-studio&logoColor=734F96)
+![Neovim](https://img.shields.io/badge/NeoVim-%?&style=for-the-badge&color=%23323330&logo=neovim)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muscaa&show_icons=true&theme=dark&locale=en" alt="muscaa" /></p>
+### Tools
+![Bash](https://img.shields.io/badge/bash-%?style=for-the-badge&color=%23323330&logo=gnu-bash)
+![Git](https://img.shields.io/badge/git-%?style=for-the-badge&color=%23323330&logo=git&logoColor=red)
+![Docker](https://img.shields.io/badge/docker-%?style=for-the-badge&color=%23323330&logo=docker)
+![Adobe Photoshop](https://img.shields.io/badge/adobe_photoshop-%?style=for-the-badge&color=%23323330&logo=adobe%20photoshop)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe_Lightroom-%?style=for-the-badge&color=%23323330&logo=Adobe%20Lightroom)
+![Insomnia](https://img.shields.io/badge/Insomnia-%?style=for-the-badge&color=%23323330&logo=insomnia&logoColor=5849BE)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muscaa&theme=dark" alt="muscaa" /></p>
+### System
+![Windows 11](https://img.shields.io/badge/Windows_11-%?style=for-the-badge&color=%23323330&logo=Windows%2011&logoColor=0079d5)
+![GPU](https://img.shields.io/badge/-R7_7700-%?style=for-the-badge&color=%23323330&logo=amd&logoColor=red)
+![nVIDIA](https://img.shields.io/badge/RTX_3080-%?style=for-the-badge&color=%23323330&logo=nVIDIA)
+![RAM](https://img.shields.io/badge/RAM_64_gb-%?style=for-the-badge&color=%23323330)
+
+![Manjaro](https://img.shields.io/badge/Manjaro-%?style=for-the-badge&color=%23323330&logo=Manjaro)
+![Intel](https://img.shields.io/badge/-i7_7700HQ-%?style=for-the-badge&color=%23323330&logo=intel&logoColor=blue)
+![nVIDIA](https://img.shields.io/badge/GTX_1050-%?style=for-the-badge&color=%23323330&logo=nVIDIA)
+![RAM](https://img.shields.io/badge/RAM_16_gb-%?style=for-the-badge&color=%23323330)
+
+<p><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=muscaa&show_icons=true&theme=dark&hide_border=true&locale=en" alt="muscaa" /></p>
+
+<p><img align="left" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=muscaa&theme=dark&hide_border=true" alt="muscaa" /></p>
+
+<p><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=muscaa&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="muscaa" /></p>
