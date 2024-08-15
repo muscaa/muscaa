@@ -1,11 +1,13 @@
 ## About Me
 
 - Full-Stack Developer
-- Computer Science student at West University of Timișoara
+- Computer Science Student at West University of Timișoara
 
 ## Quick Links
 
 - [Developer Portfolio](https://muscaa.github.io/portfolio/)
+
+## Stats
 
 <table>
   <tr>
