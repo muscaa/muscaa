@@ -7,7 +7,9 @@
 
 - [Developer Portfolio](https://muscaa.github.io/portfolio/)
 
-## Stats
+<br>
+<br>
+<br>
 
 <table>
   <tr>
