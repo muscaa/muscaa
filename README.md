@@ -6,6 +6,7 @@
 ## Quick Links
 
 - [Developer Portfolio](https://muscaa.github.io/portfolio/)
+- [Developer Resume](https://muscaa.github.io/portfolio/resumes/EN.pdf)
 
 <br>
 <br>
