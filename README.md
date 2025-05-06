@@ -14,7 +14,7 @@
   <tr>
     <td>
       <p>
-        <img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=muscaa&theme=transparent&hide_border=true" alt="muscaa" />
+        <img align="center" width="100%" src="https://streak-stats.demolab.com?user=muscaa&theme=transparent&hide_border=true" alt="muscaa" />
       </p>
       <p>
         <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=muscaa&show_icons=true&theme=transparent&hide_border=true&locale=en" alt="muscaa" />
