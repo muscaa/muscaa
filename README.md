@@ -2,11 +2,13 @@
 
 - Full-Stack Developer
 - Computer Science Student at West University of Timișoara
+- Co-Founder and CEO at Vest Visuals
 
 ## Quick Links
 
 - [Developer Portfolio](https://muscaa.github.io/portfolio/)
 - [Developer Resume](https://muscaa.github.io/portfolio/resumes/EN.pdf)
+- [Vest Visuals](https://vestvisuals.ro/)
 
 ## Stats
 
