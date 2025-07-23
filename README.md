@@ -2,7 +2,7 @@
 
 - Full-Stack Developer
 - Computer Science Student at West University of Timișoara
-- Co-Founder and CEO at [Vest Visuals](https://vestvisuals.ro/)
+- Co-Founder and Co-CEO at [Vest Visuals](https://vestvisuals.ro/)
 
 ## Quick Links
 
