@@ -11,6 +11,8 @@
 
 ## Stats
 
+![](https://komarev.com/ghpvc/?username=muscaa&abbreviated=true&label=Profile+Views&style=for-the-badge&color=006AFF&base=0)
+
 <table>
   <tr>
     <td>
@@ -28,3 +30,5 @@
     </td>
   </tr>
 </table>
+
+![](https://hit.yhype.me/github/profile?account_id=49593385)
